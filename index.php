@@ -1,7 +1,7 @@
 <?php
     // index.php
     // File PHP sederhana untuk latihan
-    $nama = "Nama Saya"; // silakan ganti dengan nama kamu
+    $nama = "Nama Saya briyan "; // silakan ganti dengan nama kamu
 ?>
 <!DOCTYPE html>
 <html lang="id">
